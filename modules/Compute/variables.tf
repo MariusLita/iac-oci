@@ -1,0 +1,9 @@
+variable "availability_domain" {}
+variable "shape" {}
+variable "ocpu" {}
+variable "nsg_id" {}
+variable "compartment_id" {}
+variable "memory" {}
+variable "image" {}
+variable "public_sub" {}
+variable "private_sub" {}
